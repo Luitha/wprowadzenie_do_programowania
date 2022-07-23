@@ -5,6 +5,12 @@ public class ForLoop {
             System.out.println(catBoard[i]);
 
         }
+        for (String cat:catBoard) {
+            System.out.println(cat);
+        }
 
+            
+        }
+        
     }
-}
+
